@@ -40,3 +40,7 @@ pip install flask flask-login
 
 # Run the app
 python app.py
+
+### 🌍 Live Demo  
+[Click here to view the live app](https://smart-expense-tracker-pzwx.onrender.com)
+
